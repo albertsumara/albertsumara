@@ -46,7 +46,3 @@ A **platformer game built in Pygame**, inspired by the classic Keystone Kapers. 
 - Jazz enthusiast 🎺  
 - Game Development hobbyist 🤖  
 - Enjoy building concurrent systems 💻
-
----
-
-![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertsumara&show_icons=true&theme=radical)
