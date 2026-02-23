@@ -1,15 +1,35 @@
 # Hi there 👋, I'm Albert Sumara
 
-I'm a Back-End Developer specializing in **C# .NET, Python, Spring Boot, Flask, and Concurrent Programming**. I enjoy building web applications, games, and scalable software solutions that make a difference.
+I'm a **Back-End Developer** specializing in **C# .NET, Python, Spring Boot, Flask, and Concurrent Programming**.  
+I enjoy building web applications, games, and scalable software solutions that make a difference.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** C#, Python, Java
-- **Web:** ASP.NET, Spring Boot, Flask
-- **Game Dev:** Pygame
-- **Databases:** PostgreSQL, SQL Server
-- **Tools & Concepts:** Docker, REST APIs, Concurrent Programming, Entity Framework
+
+#### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+#### Web & Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" alt="ASP.NET" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Flask" width="40" height="40"/>
+
+#### Game Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" alt="Pygame" width="40" height="40"/>
+
+#### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+
+#### Tools & Concepts
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![Concurrent Programming](https://img.shields.io/badge/Concurrent_Programming-4AB8A9?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
 
 ---
 
@@ -22,7 +42,7 @@ A **car reservation system** that allows users to register, log in, and manage c
 
 #### [ChatApp – Internet Chat Application](https://github.com/albertsumara/chatapp)
 A **real-time web chat application** with integrated weather and country info APIs. Users can register, log in, and exchange messages while viewing live weather info.  
-**Technologies:** Java, Spring Boot, PostgreSQL (Docker), REST API  
+**Technologies:** Java, Spring Boot, PostgreSQL (Docker), REST API
 
 #### [Survey Manager](https://github.com/albertsumara/surveys-manager)
 A **web-based survey management system** where administrators can create surveys and users can fill them out. Includes statistics filtered by age and location.  
@@ -31,7 +51,7 @@ A **web-based survey management system** where administrators can create surveys
 
 #### [KeystoneKapers Clone](https://github.com/albertsumara/keystonekapers)
 A **platformer game built in Pygame**, inspired by the classic Keystone Kapers. Players chase an AI opponent across multiple platforms while avoiding obstacles and collecting bonuses.  
-**Technologies:** Python, Pygame  
+**Technologies:** Python, Pygame
 
 ---
 
@@ -46,3 +66,7 @@ A **platformer game built in Pygame**, inspired by the classic Keystone Kapers. 
 - Jazz enthusiast 🎺  
 - Game Development hobbyist 🤖  
 - Enjoy building concurrent systems 💻
+
+---
+
+![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertsumara&show_icons=true&theme=radical)
