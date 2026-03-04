@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Albert Sumara
 
-I'm a **Back-End Developer** specializing in **C# .NET, Python, Spring Boot, Flask, and Concurrent Programming**.  
+I'm a **Back-End Developer** specializing in **C# .NET, Python**.  
 I enjoy building web applications, games, and scalable software solutions that make a difference.
 
 ---
