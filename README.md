@@ -51,7 +51,7 @@ A **platformer game built in Pygame**, inspired by the classic Keystone Kapers. 
 
 ### 📫 Contact
 - [LinkedIn](www.linkedin.com/in/albert-sumara-9584b03b0)
-- [Email] albert.sumara@o2.com
+- [Email] albert.sumara@o2.pl
 
 ---
 
