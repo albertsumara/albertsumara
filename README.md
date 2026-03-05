@@ -34,10 +34,6 @@ A **car reservation system** that allows users to register, log in, and manage c
 **Technologies:** C#, .NET 9, SQL Server  
 **Admin login:** `admin@admin.pl` | `!Admin123`
 
-#### [ChatApp – Internet Chat Application](https://github.com/albertsumara/chatapp)
-A **real-time web chat application** with integrated weather and country info APIs. Users can register, log in, and exchange messages while viewing live weather info.  
-**Technologies:** Java, Spring Boot, PostgreSQL (Docker), REST API
-
 #### [Survey Manager](https://github.com/albertsumara/surveys-manager)
 A **web-based survey management system** where administrators can create surveys and users can fill them out. Includes statistics filtered by age and location.  
 **Technologies:** C#, ASP.NET, Entity Framework, PostgreSQL (Docker)  
@@ -46,6 +42,10 @@ A **web-based survey management system** where administrators can create surveys
 #### [KeystoneKapers Clone](https://github.com/albertsumara/keystonekapers)
 A **platformer game built in Pygame**, inspired by the classic Keystone Kapers. Players chase an AI opponent across multiple platforms while avoiding obstacles and collecting bonuses.  
 **Technologies:** Python, Pygame
+
+#### [ChatApp – Internet Chat Application](https://github.com/albertsumara/chatapp)
+A **real-time web chat application** with integrated weather and country info APIs. Users can register, log in, and exchange messages while viewing live weather info.  
+**Technologies:** Java, Spring Boot, PostgreSQL (Docker), REST API
 
 ---
 
