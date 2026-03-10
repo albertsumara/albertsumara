@@ -1,6 +1,6 @@
 # Hi there, I'm Albert
 
-I'm a **Back-End Developer** specializing in **C# .NET, Python**.  
+I'm a **Back-End Developer** specializing in **C# .NET, Python, Java**.  
 I enjoy building web applications, games, and scalable software solutions that make a difference.
 
 ---
