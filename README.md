@@ -1,16 +1,18 @@
 # Hi there, I'm Albert
 
-I'm a **Back-End Developer** specializing in **C# .NET, Python, Java**.  
-I enjoy building web applications, games, and scalable software solutions that make a difference.
+I'm a **Back-End Developer specializing in Node.js**. I enjoy building web applications, games, and scalable software solutions that make a difference.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Languages
+#### Main Focus
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+#### Other Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
-#### Web & Backend
+#### Other Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Flask" width="40" height="40"/>
 
 #### Game Development
@@ -50,13 +52,7 @@ A **real-time web chat application** with integrated weather and country info AP
 ---
 
 ### 📫 Contact
-- [LinkedIn](www.linkedin.com/in/albert-sumara-9584b03b0)
-- [Email] albert.sumara@o2.pl
+- [LinkedIn](https://www.linkedin.com/in/albert-sumara-9584b03b0)
+- [Email](mailto:albert.sumara@o2.pl)
 
 ---
-
-### ⚡ Fun Facts
-- Jazz enthusiast 🎺  
-- Game Development hobbyist 🤖  
-- Enjoy building concurrent systems 💻
-
